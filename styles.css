@@ -17,7 +17,7 @@ body {
 }
 #container {
     background-color:hsl(0, 0%, 12%);
-    padding: 8px 10px;
+    padding: 18px 10px;
     border-radius: 10px;
     min-width: 300px;
     height: 450px;
@@ -89,7 +89,9 @@ section#links {
   
     #container {
         width: 80%;
-       
+        height: 500px;
     }
-    
+    a {
+        font-size: 14px;
+    }
 }
